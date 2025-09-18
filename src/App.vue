@@ -6,10 +6,10 @@
     <RouterLink to="/finde-awards">Finde Awards</RouterLink>
     <RouterLink to="/finde-foda">Finde Foda</RouterLink>
   </nav>
-
-  <RouterView />
+  
+  <RouterView/>
 </template>
 
 <script setup>
-// nada aqui por enquanto
+
 </script>
